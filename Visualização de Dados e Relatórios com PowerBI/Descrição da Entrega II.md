@@ -28,13 +28,20 @@
       
       
 * Foi criada a página de visualização "Report de Lucro detalhado" e dentro dela:
+    
     * Um segmentador, para filtrar os dados apresentados por ano, utilizando o addon de visualização "Chiclet Slicer".
+      
     * Uma árvore hierárquica mostrando a soma dos lucros por ano e por país.
+      
     * Um gráfico TreeMap mostrando a soma de lucros por segmento.
+      
     * Um gráfico de cascata mostrando a soma de lucros por trimestre.
+      
     * Um gráfico radar, mostrando a soma de lucros por produto, utilizando o addon de visualização "Radar Chart".
+      
     * Um botão de retorno para página anterior. 
     
+* Foi então feita a submissão para o ambiente de serviço do PowerBI.
 
 ## Tecnologias utilizadas
 <p align="left"> 
