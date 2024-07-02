@@ -14,3 +14,8 @@
 * Foram estabelecidos os relacionamentos com base na quantidade de instâncias.
 
 * Foi modelado o Star Schema relacionando as tabelas dimensões com a tabela fato.
+
+## Tecnologias utilizadas
+<p align="left"> 
+ <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> &nbsp;
