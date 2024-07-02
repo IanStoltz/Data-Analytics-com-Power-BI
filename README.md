@@ -2,7 +2,7 @@
 Repositório para entrega dos desafios de projeto do curso Data Analytics com Power BI oferecido pela DIO  em parceria com a Sysvision.
 <p align="center">
 <a href="https://www.dio.me/bootcamp/coding-the-future-sysvision-data-analytics" target="_blank" rel="noreferrer">
-  <img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" alt="Anaconda" width="120" height="120"/>
+  <img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" alt="Data Analytics com Power BI" width="120" height="120"/>
   
 
 
