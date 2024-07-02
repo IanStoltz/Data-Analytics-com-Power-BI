@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://www.dio.me/bootcamp/coding-the-future-sysvision-data-analytics" target="_blank" rel="noreferrer">
+  <img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" alt="Data Analytics com Power BI" width="100" height="100"/>
+    
 ### Desafio de projeto: 
 #### Criação de modelo Star Schema com base em uma tabela Financial Sample, única.
 
