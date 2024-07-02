@@ -1,0 +1,6 @@
+Desafio de projeto: Criação de modelo Star Schema com base em uma tabela Financial Sample, única.
+
+Passos do desenvolvimento:
+Foi determinado o interesse central da análise como Vendas e feita a criação da tabela fato F_Vendas.
+Foram criadas e divididas as tabelas dimensões com base nos produtos, seus detalhes e valores.
+Foi criada, utilizando DAX, a tabela de dimensão temporal D_calendar para criar o relacionamento temporal.
